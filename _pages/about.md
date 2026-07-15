@@ -16,10 +16,10 @@ redirect_from:
 <section id="recent-news" class="home-section">
   <h2>Recent News</h2>
   <ul class="home-list news-list">
-    <li><span class="home-date">2026</span>: Our paper <a href="https://dl.acm.org/doi/10.1145/3774904.3792388"><em>Multimodal Trajectory Representation Learning for Travel Time Estimation</em></a> has been accepted by The Web Conference 2026.<span class="venue-tag venue-tag--conference">CCF-A</span></li>
-    <li><span class="home-date">2025</span>: Our paper <a href="https://dl.acm.org/doi/10.1145/3746252.3761338"><em>FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes</em></a> has been accepted by CIKM 2025.<span class="venue-tag venue-tag--conference">CCF-B</span></li>
-    <li><span class="home-date">2025</span>: Our paper <a href="https://doi.org/10.1016/j.ins.2025.122338"><em>Towards Heterogeneous Federated Graph Learning via Structural Entropy and Prototype Aggregation</em></a> published in <em>Information Sciences</em>.<span class="venue-tag venue-tag--journal">SCI Q1</span></li>
-    <li><span class="home-date">2024</span>: Our paper <a href="https://doi.org/10.1109/JIOT.2024.3418488"><em>Asynchronous Federated Deep-reinforcement-learning-based Dependency Task Offloading for UAV-assisted Vehicular Networks</em></a> has been published in <em>IEEE Internet of Things Journal</em>.<span class="venue-tag venue-tag--journal">SCI Q1</span></li>
+    <li><span class="home-date">2026</span>: One paper, <a href="https://dl.acm.org/doi/10.1145/3774904.3792388"><em>Multimodal Trajectory Representation Learning for Travel Time Estimation</em></a> has been accepted by The Web Conference 2026.<span class="venue-tag venue-tag--conference">CCF-A</span></li>
+    <li><span class="home-date">2025</span>: One paper, <a href="https://dl.acm.org/doi/10.1145/3746252.3761338"><em>FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes</em></a> has been accepted by CIKM 2025.<span class="venue-tag venue-tag--conference">CCF-B</span></li>
+    <li><span class="home-date">2025</span>: One paper, <a href="https://doi.org/10.1016/j.ins.2025.122338"><em>Towards Heterogeneous Federated Graph Learning via Structural Entropy and Prototype Aggregation</em></a> published in <em>Information Sciences</em>.<span class="venue-tag venue-tag--journal">SCI-Q1</span></li>
+    <li><span class="home-date">2024</span>: One paper, <a href="https://doi.org/10.1109/JIOT.2024.3418488"><em>Asynchronous Federated Deep-reinforcement-learning-based Dependency Task Offloading for UAV-assisted Vehicular Networks</em></a> has been published in <em>IEEE Internet of Things Journal</em>.<span class="venue-tag venue-tag--journal">SCI-Q1</span></li>
   </ul>
 </section>
 
