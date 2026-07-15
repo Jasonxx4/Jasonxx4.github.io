@@ -256,32 +256,58 @@ $academic-serif: "Times New Roman", Times, serif;
     font-style: italic;
   }
 
-  .venue-tag--conference {
-  color: #fff;
-  font-weight: 700;
-  background: #214f8b;
-  border-color: #214f8b;
- }
+//   .venue-tag--conference {
+//   color: #fff;
+//   font-weight: 700;
+//   background: #214f8b;
+//   border-color: #214f8b;
+//  }
 
-.venue-tag--journal {
-  color: #a85b00;
-  font-weight: 600;
-  background: #fff8ee;
-  border-color: #efa65a;
- }
+// .venue-tag--journal {
+//   color: #a85b00;
+//   font-weight: 600;
+//   background: #fff8ee;
+//   border-color: #efa65a;
+//  }
   
+  // .venue-tag {
+  //   display: inline-block;
+  //   margin-left: 0.4rem;
+  //   padding: 0 0.32rem;
+  //   border: 1px solid #b9d5df;
+  //   border-radius: 3px;
+  //   color: #2d7087;
+  //   font-family: $academic-ui;
+  //   font-size: 0.625rem;
+  //   line-height: 1.1rem;
+  //   vertical-align: 0.1rem;
+  // }
   .venue-tag {
-    display: inline-block;
-    margin-left: 0.4rem;
-    padding: 0 0.32rem;
-    border: 1px solid #b9d5df;
-    border-radius: 3px;
-    color: #2d7087;
-    font-family: $academic-ui;
-    font-size: 0.625rem;
-    line-height: 1.1rem;
-    vertical-align: 0.1rem;
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0 0.32rem;
+  border: 1px solid #b9d5df;
+  border-radius: 3px;
+  color: #2d7087;
+  font-family: $academic-ui;
+  font-size: 0.625rem;
+  line-height: 1.1rem;
+  vertical-align: 0.1rem;
+
+  &.venue-tag--conference {
+    color: #fff;
+    font-weight: 700;
+    background: #174a88;
+    border-color: #174a88;
   }
+
+  &.venue-tag--journal {
+    color: #a85b00;
+    font-weight: 600;
+    background: #fff8ee;
+    border-color: #efa65a;
+  }
+}
 
   .research-list strong,
   .publication-title {
