@@ -22,12 +22,12 @@ repository               : "Jasonxx4/Jasonxx4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dzh_cv.png"
+  avatar           : "Dai_cd.png"
   name             : "Zhehao Dai 戴哲豪"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. student<br>Zhejiang University of Technology"
+  bio              : "PhD student<br>University of Technology Sydney"
   interests        : "Federated Graph Learning"
-  location         : "Hangzhou, China"
+  location         : "Sydney, Australia"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "zhehaodai@outlook.com" 
