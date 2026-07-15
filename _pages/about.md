@@ -35,7 +35,7 @@ redirect_from:
 <section id="education" class="home-section">
   <h2>Education</h2>
   <ul class="home-list education-list">
-    <li><span class="home-date">Present</span>, University of Technology Sydney, PhD
+    <li><span class="home-date">2026.07 - Present</span>, University of Technology Sydney, PhD
       <ul><li>Supervised by <a href="https://hanchen-wang.com/">Prof. Hanchen Wang</a></li></ul>
     </li>
     <li><span class="home-date">2023.09 - 2026.06</span>, Zhejiang University of Technology, Master
