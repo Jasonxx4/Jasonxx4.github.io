@@ -50,9 +50,8 @@ redirect_from:
 <section id="publications" class="home-section">
   <h2>Selected Publications</h2>
   <ol class="home-list publication-list">
-    <li>Zhi Liu, Xuyuan Hu, Xiao Han, <strong>Zhehao Dai</strong>, Zhaolin Deng, Guojiang Shen, Xiangjie Kong. <span class="publication-title">Multimodal Trajectory Representation Learning for Travel Time Estimation.</a> The Web Conference 2026 (WWW '26), June 29-July 3, 2026, Dubai, United Arab Emirates.</li>
+    <li>Zhi Liu, Xuyuan Hu, Xiao Han, <strong>Zhehao Dai</strong>, Zhaolin Deng, Guojiang Shen, Xiangjie Kong. <span class="publication-title">Multimodal Trajectory Representation Learning for Travel Time Estimation.</span> The Web Conference 2026 (WWW '26), June 29-July 3, 2026, Dubai, United Arab Emirates.</li>
     <li><strong>Zhehao Dai</strong>, Guojiang Shen, Yuyue Hu, Jiaxin Du, Xiao Han, Xiangjie Kong. <span class="publication-title">FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes.</span> The 34th ACM International Conference on Information and Knowledge Management (CIKM'25), November 10-14, 2025, Seoul, Republic of Korea.</li>
     <li><strong>Zhehao Dai</strong>, Guojiang Shen, Haopeng Yuan, Shangfei Zheng, Yuyue Hu, Jiaxin Du, Xiangjie Kong, Feng Xia. <span class="publication-title">Towards Heterogeneous Federated Graph Learning via Structural Entropy and Prototype Aggregation.</span> Information Sciences, 2025: 122338.</li>
     <li>Si Shen, Guojiang Shen, <strong>Zhehao Dai</strong>, Kaiyu Zhang, Xiangjie Kong, Jianxin Li. <span class="publication-title">Asynchronous Federated Deep Reinforcement-Learning-Based Dependency Task Offloading for UAV-Assisted Vehicular Networks.</span> IEEE Internet of Things Journal, 2024, 11(19): 31561-31574.</li>
-  </ol>
 </section>
