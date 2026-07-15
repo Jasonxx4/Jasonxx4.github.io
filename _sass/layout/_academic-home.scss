@@ -256,6 +256,20 @@ $academic-serif: "Times New Roman", Times, serif;
     font-style: italic;
   }
 
+  .venue-tag--conference {
+  color: #fff;
+  font-weight: 700;
+  background: #214f8b;
+  border-color: #214f8b;
+ }
+
+.venue-tag--journal {
+  color: #a85b00;
+  font-weight: 600;
+  background: #fff8ee;
+  border-color: #efa65a;
+ }
+  
   .venue-tag {
     display: inline-block;
     margin-left: 0.4rem;
