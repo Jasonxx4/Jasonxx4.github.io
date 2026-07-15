@@ -13,16 +13,16 @@ title                    : "Zhehao Dai"
 title_separator          : "-"
 name                     : &name "Zhehao Dai"
 description              : &description "Academic homepage of Zhehao Dai, focusing on federated graph learning, large language models, and spatiotemporal data mining."
-url                      : https://zhehaodai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://jasonxx4.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jasonxx4/zhehaodai.github.io"
+repository               : "Jasonxx4/Jasonxx4.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/dzh_cv.png"
+  avatar           : "dzh_cv.png"
   name             : "Zhehao Dai 戴哲豪"
   pronouns         : # example: "she/her"  
   bio              : "M.S. student<br>Zhejiang University of Technology"
