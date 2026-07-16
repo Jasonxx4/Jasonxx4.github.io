@@ -65,7 +65,7 @@ redirect_from:
   </ul>
   <h3>Journal Invited Reviewer</h3>
   <ul class="home-list service-list">
-    <li>KBS (Elsevier)</li>
+    <li>KBS</li>
   </ul>
 </section>
 
