@@ -58,7 +58,7 @@ redirect_from:
 
 <section id="Academic Services" class="home-section">
   <h2> Professional Services</h2>
-  <h3>Program Committee Member (PC)</h3>
+  <h3>Program Committee Member</h3>
   <ul class="home-list service-list">
     <li>KDD 2027 (Ai4Sciences)</li>
     <li>KDD 2026 (Ai4Sciences)</li>
