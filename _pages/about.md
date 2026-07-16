@@ -54,7 +54,8 @@ redirect_from:
     <li><strong>Zhehao Dai</strong>, Guojiang Shen, Yuyue Hu, Jiaxin Du, Xiao Han, Xiangjie Kong. <span class="publication-title">FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes.</span> The 34th ACM International Conference on Information and Knowledge Management (CIKM'25), November 10-14, 2025, Seoul, Republic of Korea.</li>
     <li><strong>Zhehao Dai</strong>, Guojiang Shen, Haopeng Yuan, Shangfei Zheng, Yuyue Hu, Jiaxin Du, Xiangjie Kong, Feng Xia. <span class="publication-title">Towards Heterogeneous Federated Graph Learning via Structural Entropy and Prototype Aggregation.</span> Information Sciences, 2025: 122338.</li>
     <li>Si Shen, Guojiang Shen, <strong>Zhehao Dai</strong>, Kaiyu Zhang, Xiangjie Kong, Jianxin Li. <span class="publication-title">Asynchronous Federated Deep Reinforcement-Learning-Based Dependency Task Offloading for UAV-Assisted Vehicular Networks.</span> IEEE Internet of Things Journal, 2024, 11(19): 31561-31574.</li>
-
+  </ol>
+</section>
 
 <section id="Academic Services" class="home-section">
   <h2> Professional Services</h2>
